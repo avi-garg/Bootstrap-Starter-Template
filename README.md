@@ -10,7 +10,7 @@
     <a href="https://github.com/avi-garg/Bootstrap-Starter-Template/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/avi-garg/Bootstrap-Starter-Template.svg?style=flat-square" /></a>
   </p>
   <p align="center">
-    This repository is a collection of some must-know programs for competitive programming!
+    This repository contains the starter template for Bootstrap v4+
     
 
 <!-- LICENSE -->
